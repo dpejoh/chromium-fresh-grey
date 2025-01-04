@@ -1,0 +1,94 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "name": "Fresh Grey",
+  "theme": {
+    "images": {
+      "theme_ntp_background": "theme_ntp_background.png",
+      "theme_tab_background": "theme_tab_background.png"
+    },
+    "colors": {
+      "frame": [
+        35,
+        35,
+        40
+      ],
+      "frame_inactive": [
+        35,
+        35,
+        40
+      ],
+      "ntp_background": [
+        35,
+        35,
+        40
+      ],
+      "tab_text": [
+        245,
+        245,
+        245
+      ],
+      "tab_background_text": [
+        235,
+        235,
+        235
+      ],
+      "bookmark_text": [
+        245,
+        245,
+        245
+      ],
+      "ntp_text": [
+        0,
+        0,
+        0
+      ],
+      "ntp_link": [
+        6,
+        55,
+        116
+      ],
+      "ntp_header": [
+        150,
+        150,
+        150
+      ],
+      "toolbar": [
+        55,
+        55,
+        60
+      ],
+      "toolbar_text": [
+        245,
+        245,
+        245
+      ],
+      "button_background": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "omnibox_background": [
+        35,
+        35,
+        40
+      ],
+      "toolbar_button_icon": [
+        245,
+        245,
+        245
+      ],
+      "omnibox_text": [
+        245,
+        245,
+        245
+      ]
+    },
+    "tints": {},
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
